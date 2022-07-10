@@ -5,3 +5,13 @@ This is a repository for studies on Python's Playwright framework
 Following the tutorial class "Playwright with Python for Web Automation Testing + Visual"
 From Symon Storozhenko
 
+# Installation
+
+You can check https://playwright.dev/docs/intro#installation
+Install Playwright Python library
+
+> pip install playwright
+
+on cmd:
+
+> playwright install
