@@ -15,3 +15,7 @@ Install Playwright Python library
 on cmd:
 
 > playwright install
+
+64. Fixtures
+are used on repetitive tasks
+and for running test cases before and after all 
